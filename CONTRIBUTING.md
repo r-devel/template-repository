@@ -7,6 +7,7 @@ For a new project, search-and-replace
 - COC_URL (The URL for the code-of-conduct for the current project)
 - ISSUES_URL (The URL for the Issues board for the current project)
 - COC_CONTACT
+- MAINTAINER
 -->
 
 First off, thanks for taking the time to contribute! ❤️
@@ -14,11 +15,11 @@ First off, thanks for taking the time to contribute! ❤️
 All types of contributions are encouraged and valued. See the
 [Table of Contents](#table-of-contents) for different ways to help and details about how
 this project handles them. Please make sure to read the relevant section before
-making your contribution. It will make it a lot easier for us maintainers and
+making your contribution. It will make it a lot easier for the maintainers and
 smooth out the experience for all involved. The community looks forward to your
 contributions. 🎉
 
-And if you like the project, but just don't have time to contribute, that's fine. 
+If you like the project, but don't have time to contribute directly, that's fine. 
 There are other easy ways to support the project and show your appreciation, 
 which we would also be very happy about:
 
@@ -48,7 +49,7 @@ which we would also be very happy about:
 This project and everyone participating in it is governed by the
 [CURRENT_PROJECT Code of Conduct](COC_URL).
 By participating, you are expected to uphold this code. 
-The Code of Conduct covers how to report unacceptable behaviour.
+See the Code of Conduct for details of how to report unacceptable behavior.
 
 ## I Have a Question
 
@@ -60,7 +61,7 @@ Before you ask a question, it is best to search for existing
 you can write your question in the issue. 
 It is also advisable to search the internet for answers first.
 
-If you have not been able to find an answer to your question, we
+If you have not been able to find an answer or relevant issue, we
 recommend the following:
 
 - Open an [Issue](ISSUES_URL/new).
@@ -68,7 +69,7 @@ recommend the following:
 - Provide project and platform versions (R, quarto, IDE, etc), depending on what
   seems relevant.
 
-We will then endeavour to answer your question as soon as possible.
+We will then aim to answer your question as soon as possible.
 
 <!-- You might want to create a separate issue tag for questions and include it
 in this description. People should then tag their issues accordingly.
@@ -118,8 +119,7 @@ steps in advance to help us fix any potential bug as fast as possible.
 
 > You must never report security related issues, vulnerabilities or bugs
 including sensitive information to the issue tracker, or elsewhere in
-public. Instead sensitive bugs must be sent by email to
-<James.Tripp@outlook.com>.  <!-- You may add a PGP key to allow the messages to
+public. Instead sensitive bugs must be sent by email to MAINTAINER.  <!-- You may add a PGP key to allow the messages to
 be sent encrypted as well. -->
 
 We use GitHub issues to track bugs and errors. If you run into an issue with the
