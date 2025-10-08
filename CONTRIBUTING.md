@@ -4,8 +4,6 @@
 <!--
 For a new project, search-and-replace
 - CURRENT_PROJECT
-- COFC_URL (The URL for the code-of-conduct for the current project)
-- ISSUES_URL (The URL for the Issues board for the current project)
 -->
 
 First off, thanks for taking the time to contribute! ❤️
@@ -45,7 +43,7 @@ contributions. 🎉
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[CURRENT_PROJECT Code of Conduct](COFC_URL).
+[CURRENT_PROJECT Code of Conduct](CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report
 unacceptable behavior to <MAINTAINER>.
 
@@ -55,7 +53,7 @@ unacceptable behavior to <MAINTAINER>.
 > documentation.
 
 Before you ask a question, it is best to search for existing
-[Issues](ISSUES_URL) that might help you. In
+[Issues](/issues) that might help you. In
 case you have found a suitable issue and still need clarification, you can write
 your question in this issue. It is also advisable to search the internet for
 answers first.
@@ -63,7 +61,7 @@ answers first.
 If you then still feel the need to ask a question and need clarification, we
 recommend the following:
 
-- Open an [Issue](ISSUES_URL/new).
+- Open an [Issue](/issues/new).
 - Provide as much context as you can about what you're running into.
 - Provide project and platform versions (nodejs, npm, etc), depending on what
   seems relevant.
@@ -111,7 +109,7 @@ steps in advance to help us fix any potential bug as fast as possible.
 - To see if other users have experienced (and potentially already solved) the
   same issue you are having, check if there is not already a bug report existing
   for your bug or error in the
-  [bug tracker](ISSUES_URL?q=label%3Abug).
+  [bug tracker](/issues?q=label%3Abug).
 
 <!-- omit in toc -->
 #### How Do I Submit a Good Bug Report?
@@ -125,7 +123,7 @@ be sent encrypted as well. -->
 We use GitHub issues to track bugs and errors. If you run into an issue with the
 project:
 
-- Open an [Issue](ISSUES_URL/new). (Since we
+- Open an [Issue](/issues/new). (Since we
   can't be sure at this point whether it is a bug or not, we ask you not to talk
   about a bug yet and not to label the issue.)
 - Explain the behavior you would expect and the actual behavior.
@@ -152,7 +150,7 @@ the community to understand your suggestion and find related suggestions.
 - Make sure that you are using the latest version.
 - Read the documentation carefully and find out if the functionality is already
   covered, maybe by an individual configuration.
-- Perform a [search](ISSUES_URL) to see if the
+- Perform a [search](/issues) to see if the
   enhancement has already been suggested. If it has, add a comment to the
   existing issue instead of opening a new one.
 - Find out whether your idea fits with the scope and aims of the project. It's
@@ -164,7 +162,7 @@ the community to understand your suggestion and find related suggestions.
 #### How Do I Submit a Good Enhancement Suggestion?
 
 Enhancement suggestions are tracked as
-[GitHub issues](ISSUES_URL).
+[GitHub issues](/issues).
 
 - Use a **clear and descriptive title** for the issue to identify the
   suggestion.
