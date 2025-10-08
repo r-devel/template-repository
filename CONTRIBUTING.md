@@ -4,7 +4,6 @@
 <!--
 For a new project, search-and-replace
 - CURRENT_PROJECT
-- COFC_URL (The URL for the code-of-conduct for the current project)
 -->
 
 First off, thanks for taking the time to contribute! ❤️
@@ -44,7 +43,7 @@ contributions. 🎉
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[CURRENT_PROJECT Code of Conduct](COFC_URL).
+[CURRENT_PROJECT Code of Conduct](CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report
 unacceptable behavior to <MAINTAINER>.
 
