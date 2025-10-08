@@ -4,8 +4,9 @@
 <!--
 For a new project, search-and-replace
 - CURRENT_PROJECT
-- COFC_URL (The URL for the code-of-conduct for the current project)
+- COC_URL (The URL for the code-of-conduct for the current project)
 - ISSUES_URL (The URL for the Issues board for the current project)
+- COC_CONTACT
 -->
 
 First off, thanks for taking the time to contribute! ❤️
@@ -17,14 +18,14 @@ making your contribution. It will make it a lot easier for us maintainers and
 smooth out the experience for all involved. The community looks forward to your
 contributions. 🎉
 
-> And if you like the project, but just don't have time to contribute, that's
-> fine. There are other easy ways to support the project and show your
-> appreciation, which we would also be very happy about:
->
-> - Star the project
-> - Tweet about it
-> - Refer this project in your project's readme
-> - Mention the project at local meetups and tell your friends/colleagues
+And if you like the project, but just don't have time to contribute, that's fine. 
+There are other easy ways to support the project and show your appreciation, 
+which we would also be very happy about:
+
+- Star the project
+- Post about it on social media
+- Refer this project in your project's README
+- Mention the project at local meetups and tell your friends/colleagues
 
 <!-- omit in toc -->
 ## Table of Contents
@@ -45,9 +46,9 @@ contributions. 🎉
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[CURRENT_PROJECT Code of Conduct](COFC_URL).
-By participating, you are expected to uphold this code. Please report
-unacceptable behavior to <MAINTAINER>.
+[CURRENT_PROJECT Code of Conduct](COC_URL).
+By participating, you are expected to uphold this code. 
+The Code of Conduct covers how to report unacceptable behaviour.
 
 ## I Have a Question
 
@@ -55,20 +56,19 @@ unacceptable behavior to <MAINTAINER>.
 > documentation.
 
 Before you ask a question, it is best to search for existing
-[Issues](ISSUES_URL) that might help you. In
-case you have found a suitable issue and still need clarification, you can write
-your question in this issue. It is also advisable to search the internet for
-answers first.
+[Issues](ISSUES_URL) that might help you. If you find a relevant issue and still need clarification, 
+you can write your question in the issue. 
+It is also advisable to search the internet for answers first.
 
-If you then still feel the need to ask a question and need clarification, we
+If you have not been able to find an answer to your question, we
 recommend the following:
 
 - Open an [Issue](ISSUES_URL/new).
 - Provide as much context as you can about what you're running into.
-- Provide project and platform versions (nodejs, npm, etc), depending on what
+- Provide project and platform versions (R, quarto, IDE, etc), depending on what
   seems relevant.
 
-We will then take care of the issue as soon as possible.
+We will then endeavour to answer your question as soon as possible.
 
 <!-- You might want to create a separate issue tag for questions and include it
 in this description. People should then tag their issues accordingly.
